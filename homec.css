@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image:url("school.jfif") ;
+    background-size: cover;
+}
+
+header {
+  
+    padding: 20px;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+footer {
+  color: white;
+    padding: 20px 0;
+}
+
+footer .contact-section {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+footer input, footer textarea {
+    margin-bottom: 15px;
+}
+
+footer input[type="submit"] {
+   
+    color: white;
+}
+
+/*footer input[type="submit"]:hover {
+  
+}
